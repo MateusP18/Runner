@@ -57,10 +57,4 @@ Foi um exercício divertido, desafiador e muito enriquecedor!
 ### 📂 Repositório  
 🔗 GitHub: (https://github.com/MateusP18/Runner).
 
----
 
-### 💬 Considerações Finais  
-
-Recriar o Dino Runner foi uma ótima forma de aplicar conhecimentos básicos de desenvolvimento de jogos. O projeto serviu como ponto de partida e base para melhorias futuras, além de manter o aprendizado divertido e motivador.
-
-Se você está começando com Python, criar um jogo simples como esse pode ser uma experiência extremamente valiosa.
