@@ -55,7 +55,7 @@ Foi um exercício divertido, desafiador e muito enriquecedor!
 ---
 
 ### 📂 Repositório  
-🔗 GitHub: [github.com/SeuUsuario/Runner](https://github.com/SeuUsuario/Runner) *(substitua pelo seu link real)*
+🔗 GitHub: (https://github.com/MateusP18/Runner).
 
 ---
 
